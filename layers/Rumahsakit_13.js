@@ -1,0 +1,1 @@
+var json_Rumahsakit_13 = {"type":"FeatureCollection","name":"Rumahsakit_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Hiayah Hospital Purwokerto"},"geometry":{"type":"Point","coordinates":[109.259144294508616,-7.427097524301614]}}]}

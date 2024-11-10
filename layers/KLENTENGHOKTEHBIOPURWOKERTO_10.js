@@ -1,0 +1,1 @@
+var json_KLENTENGHOKTEHBIOPURWOKERTO_10 = {"type":"FeatureCollection","name":"KLENTENGHOKTEHBIOPURWOKERTO_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"KLENTENG HOK TEH BIO PURWOKERTO"},"geometry":{"type":"Point","coordinates":[109.249448538046337,-7.425726545019928]}}]}
